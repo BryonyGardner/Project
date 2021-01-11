@@ -1,6 +1,6 @@
 # Project
-Data Science and Machine Learning module individual project
-JAL34
+### Data Science and Machine Learning module individual project
+### **JAL34**
 This is a tool written in Python for exploring the DNA sequence of JAL34 (nucleotide frequency and GC content) and translating nuclotide sequences into proteins.
 To run:
 1) Download the Jupyter notebook in the repository along with the fasta files for the jal34 gene sequence (At3g16460.fasta) and JAL34 protein sequence (O04310.fasta) into a single directory. 
